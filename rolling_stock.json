@@ -1,0 +1,108 @@
+{
+  "totals": {
+    "inService": 405,
+    "retired": { "model": "Mark I", "cars": 6 }
+  },
+  "formation": [
+    { "labelHe": "סימן I", "labelEn": "Mark I", "perTrainset": 6 },
+    { "labelHe": "סימן II/III", "labelEn": "Mark II/III", "perTrainset": 4 },
+    { "labelHe": "סימן V", "labelEn": "Mark V", "perTrainset": 5 },
+    { "labelHe": "קנדה ליין (EMU)", "labelEn": "Canada Line (EMU)", "perTrainset": 2 }
+  ],
+  "stock": [
+    {
+      "id": "mk1",
+      "name": "סימן I",
+      "nameEn": "Mark I",
+      "maker": "UTDC / Bombardier",
+      "enteredService": "1985–הווה",
+      "status": "בשירות",
+      "carCount": 144,
+      "consist": "6 קרונות לרכבת (זוגות נשואים)",
+      "lines": ["Expo", "Millennium"],
+      "notes": "6 קרונות פרשו משירות.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/SkyTrain_Mark_I.jpg/480px-SkyTrain_Mark_I.jpg"
+    },
+    {
+      "id": "mk2",
+      "name": "סימן II",
+      "nameEn": "Mark II",
+      "maker": "Bombardier",
+      "enteredService": "2002–הווה",
+      "status": "בשירות",
+      "carCount": 108,
+      "consist": "4 קרונות לרכבת (לעיתים 2 במערך נשוי)",
+      "lines": ["Expo", "Millennium"],
+      "notes": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/SkyTrain_Mark_II.jpg/480px-SkyTrain_Mark_II.jpg"
+    },
+    {
+      "id": "mk3",
+      "name": "סימן III",
+      "nameEn": "Mark III",
+      "maker": "Bombardier / Alstom",
+      "enteredService": "2016–הווה",
+      "status": "בשירות",
+      "carCount": 84,
+      "consist": "4 קרונות לרכבת (קבוע)",
+      "lines": ["Expo", "Millennium"],
+      "notes": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SkyTrain_Mark_III.jpg/480px-SkyTrain_Mark_III.jpg"
+    },
+    {
+      "id": "mk5",
+      "name": "סימן V",
+      "nameEn": "Mark V",
+      "maker": "Alstom",
+      "enteredService": "מאז 2025",
+      "status": "בשירות (פריסה הדרגתית)",
+      "carCount": 5,
+      "consist": "5 קרונות לרכבת (קבוע)",
+      "lines": ["Expo", "Millennium"],
+      "notes": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TransLink_Mark_V.jpg/480px-TransLink_Mark_V.jpg"
+    },
+    {
+      "id": "emu",
+      "name": "קנדה ליין – EMU",
+      "nameEn": "Canada Line EMU",
+      "maker": "Hyundai Rotem",
+      "enteredService": "2009–הווה",
+      "status": "בשירות",
+      "carCount": 64,
+      "consist": "2 קרונות לרכבת",
+      "lines": ["Canada"],
+      "notes": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Canada_Line_train.jpg/480px-Canada_Line_train.jpg"
+    }
+  ],
+  "summaryTable": [
+    { "builder": "Urban Transportation Development Corporation", "model": "ICTS Mark I", "yearAcquired": "1984–1986", "quantity": 114, "fleetNumbers": "001–056; 061–118" },
+    { "builder": "Urban Transportation Development Corporation", "model": "ICTS Mark I", "yearAcquired": "1990–1991", "quantity": 16,  "fleetNumbers": "121–136" },
+    { "builder": "Urban Transportation Development Corporation", "model": "ICTS Mark I", "yearAcquired": "1994–1995", "quantity": 20,  "fleetNumbers": "137–156" },
+    { "builder": "Bombardier Transportation", "model": "ART Mark II", "yearAcquired": "2000–2002", "quantity": 60, "fleetNumbers": "201–260" },
+    { "builder": "Bombardier Transportation", "model": "ART Mark II", "yearAcquired": "2009",       "quantity": 34, "fleetNumbers": "301–334" },
+    { "builder": "Bombardier Transportation", "model": "ART Mark II", "yearAcquired": "2010",       "quantity": 14, "fleetNumbers": "335–348" },
+    { "builder": "Bombardier Transportation / Alstom", "model": "Innovia Metro Mark III", "yearAcquired": "2016",       "quantity": 28, "fleetNumbers": "401–428" },
+    { "builder": "Bombardier Transportation / Alstom", "model": "Innovia Metro Mark III", "yearAcquired": "2018–2020", "quantity": 56, "fleetNumbers": "429–484" },
+    { "builder": "Alstom", "model": "Innovia Metro Mark V", "yearAcquired": "מאז 2025", "quantity": 5, "fleetNumbers": "" },
+    { "builder": "Hyundai Rotem", "model": "EMU", "yearAcquired": "2009",       "quantity": 40, "fleetNumbers": "101–120; 201–220" },
+    { "builder": "Hyundai Rotem", "model": "EMU", "yearAcquired": "2019–2020", "quantity": 24, "fleetNumbers": "121–132; 221–232" }
+  ],
+  "capacityTable": [
+    { "model": "ICTS Mark I (1984–1995)", "lengthPerCar": "12.7 מ׳ (41′ 8″)", "seatsPerCar": "22–36", "capacityPerCar": "~80", "carsPerTrain": "4 קרונות", "lengthTrain": "50.8 מ׳ (166′ 8″)", "capacityTrain": "332" },
+    { "model": "ICTS Mark I (1984–1995)", "lengthPerCar": "12.7 מ׳ (41′ 8″)", "seatsPerCar": "22–36", "capacityPerCar": "~80", "carsPerTrain": "6 קרונות", "lengthTrain": "76.2 מ׳ (250′ 0″)",  "capacityTrain": "498" },
+
+    { "model": "ART Mark II (2000–2002)", "lengthPerCar": "17.35 מ׳ (56′ 11⅛″)", "seatsPerCar": "42", "capacityPerCar": "123", "carsPerTrain": "2 קרונות", "lengthTrain": "34.7 מ׳ (113′ 10⅛″)", "capacityTrain": "256" },
+    { "model": "ART Mark II (2000–2002)", "lengthPerCar": "17.35 מ׳ (56′ 11⅛″)", "seatsPerCar": "42", "capacityPerCar": "123", "carsPerTrain": "4 קרונות", "lengthTrain": "69.4 מ׳ (227′ 8¼″)",  "capacityTrain": "512" },
+
+    { "model": "ART Mark II (2nd generation; 2009/2010)", "lengthPerCar": "—", "seatsPerCar": "33", "capacityPerCar": "130", "carsPerTrain": "2 קרונות", "lengthTrain": "34.7 מ׳ (113′ 10⅛″)", "capacityTrain": "264" },
+    { "model": "ART Mark II (2nd generation; 2009/2010)", "lengthPerCar": "—", "seatsPerCar": "33", "capacityPerCar": "130", "carsPerTrain": "4 קרונות", "lengthTrain": "69.4 מ׳ (227′ 8¼″)",  "capacityTrain": "528" },
+
+    { "model": "Innovia Metro Mark III (2016–2019)", "lengthPerCar": "17.025 מ׳ (55′ 10¼″)", "seatsPerCar": "30–33", "capacityPerCar": "131–135", "carsPerTrain": "4 קרונות", "lengthTrain": "68.1 מ׳ (223′ 5⅛″)", "capacityTrain": "532" },
+
+    { "model": "Innovia Metro Mark V (since 2025)", "lengthPerCar": "—", "seatsPerCar": "134–139", "capacityPerCar": "—", "carsPerTrain": "5 קרונות", "lengthTrain": "84.8 മ׳ (278′ 2⅝″)", "capacityTrain": "672" },
+
+    { "model": "Hyundai Rotem EMU (2009–present)", "lengthPerCar": "20.5 מ׳ (67′ 3⅛″)", "seatsPerCar": "44", "capacityPerCar": "167", "carsPerTrain": "2 קרונות", "lengthTrain": "41 מ׳ (134′ 6⅛″)", "capacityTrain": "334" }
+  ]
+}
