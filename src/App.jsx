@@ -34,7 +34,7 @@ const FALLBACK = {
       consist: "6 קרונות לרכבת (זוגות נשואים)",
       lines: ["Expo", "Millennium"],
       notes: "6 קרונות פרשו משירות.",
-      image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/SkyTrain_Mark_I.jpg/480px-SkyTrain_Mark_I.jpg"
+      image: "https://commons.wikimedia.org/wiki/File:Skytrain_Mk_I_in_new_Translink_livery_arriving_at_Holdom_Skytrain_station.jpg"
     },
     {
       id: "mk2",
