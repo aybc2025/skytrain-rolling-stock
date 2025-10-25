@@ -69,7 +69,7 @@ const FALLBACK = {
       maker: "Alstom",
       enteredService: "מאז 2025",
       status: "בשירות (פריסה הדרגתית)",
-      carCount: 5,
+      carCount: 20,
       consist: "5 קרונות לרכבת (קבוע)",
       lines: ["Expo", "Millennium"],
       notes: "",
@@ -98,7 +98,7 @@ const FALLBACK = {
     { builder: "Bombardier Transportation", model: "ART Mark II", yearAcquired: "2010",       quantity: 14, fleetNumbers: "335–348" },
     { builder: "Bombardier Transportation / Alstom", model: "Innovia Metro Mark III", yearAcquired: "2016",       quantity: 28, fleetNumbers: "401–428" },
     { builder: "Bombardier Transportation / Alstom", model: "Innovia Metro Mark III", yearAcquired: "2018–2020", quantity: 56, fleetNumbers: "429–484" },
-    { builder: "Alstom", model: "Innovia Metro Mark V", yearAcquired: "מאז 2025", quantity: 5, fleetNumbers: "" },
+    { builder: "Alstom", model: "Innovia Metro Mark V", yearAcquired: "מאז 2025", quantity: 20, fleetNumbers: "" },
     { builder: "Hyundai Rotem", model: "EMU", yearAcquired: "2009",        quantity: 40, fleetNumbers: "101–120; 201–220" },
     { builder: "Hyundai Rotem", model: "EMU", yearAcquired: "2019–2020",  quantity: 24, fleetNumbers: "121–132; 221–232" }
   ],
