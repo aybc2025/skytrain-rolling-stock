@@ -21,7 +21,7 @@
       "consist": "6 קרונות לרכבת (זוגות נשואים)",
       "lines": ["Expo", "Millennium"],
       "notes": "6 קרונות פרשו משירות.",
-      "image": "./assets/Mark I.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/SkyTrain_Mark_I.jpg/480px-SkyTrain_Mark_I.jpg"
     },
     {
       "id": "mk2",
@@ -34,7 +34,7 @@
       "consist": "4 קרונות לרכבת (לעיתים 2 במערך נשוי)",
       "lines": ["Expo", "Millennium"],
       "notes": "",
-      "image": "./assets/Mark II.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/SkyTrain_Mark_II.jpg/480px-SkyTrain_Mark_II.jpg"
     },
     {
       "id": "mk3",
@@ -47,7 +47,7 @@
       "consist": "4 קרונות לרכבת (קבוע)",
       "lines": ["Expo", "Millennium"],
       "notes": "",
-      "image": "./assets/Mark III.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SkyTrain_Mark_III.jpg/480px-SkyTrain_Mark_III.jpg"
     },
     {
       "id": "mk5",
@@ -60,7 +60,7 @@
       "consist": "5 קרונות לרכבת (קבוע)",
       "lines": ["Expo", "Millennium"],
       "notes": "",
-      "image": "./assets/Mark V.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TransLink_Mark_V.jpg/480px-TransLink_Mark_V.jpg"
     },
     {
       "id": "emu",
@@ -73,7 +73,7 @@
       "consist": "2 קרונות לרכבת",
       "lines": ["Canada"],
       "notes": "",
-      "image": "./assets/Canada Line.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Canada_Line_train.jpg/480px-Canada_Line_train.jpg"
     }
   ],
   "summaryTable": [
