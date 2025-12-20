@@ -31,7 +31,7 @@ const FALLBACK = {
       enteredService: "1985–הווה",
       status: "בשירות",
       carCount: 144,
-      consist: "6 קרונות לרכבת (זוגות נשואים)",
+      consist: "6 קרונות לרכבת",
       lines: ["Expo", "Millennium"],
       notes: "6 קרונות פרשו משירות.",
       image: "https://commons.wikimedia.org/wiki/File:Skytrain_Mk_I_in_new_Translink_livery_arriving_at_Holdom_Skytrain_station.jpg"
@@ -69,7 +69,11 @@ const FALLBACK = {
       maker: "Alstom",
       enteredService: "מאז 2025",
       status: "בשירות (פריסה הדרגתית)",
+<<<<<<< Updated upstream
       carCount: 20,
+=======
+      carCount: 25,
+>>>>>>> Stashed changes
       consist: "5 קרונות לרכבת (קבוע)",
       lines: ["Expo", "Millennium"],
       notes: "",
