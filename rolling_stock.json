@@ -21,7 +21,7 @@
       "consist": "6 קרונות לרכבת (זוגות נשואים)",
       "lines": ["Expo", "Millennium"],
       "notes": "20 קרונות פרשו משירות.",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/SkyTrain_Mark_I.jpg/480px-SkyTrain_Mark_I.jpg"
+      "image": "https://commons.wikimedia.org/wiki/File:Skytrain_Mk_I_in_new_Translink_livery_arriving_at_Holdom_Skytrain_station.jpg"
     },
     {
       "id": "mk2",
@@ -34,7 +34,7 @@
       "consist": "4 קרונות לרכבת (לעיתים 2 במערך נשוי)",
       "lines": ["Expo", "Millennium"],
       "notes": "",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/SkyTrain_Mark_II.jpg/480px-SkyTrain_Mark_II.jpg"
+      "image": "https://commons.wikimedia.org/wiki/Category:Vancouver_SkyTrain_Mk_II#/media/File:SkyTrain_Mark_2_326.jpg"
     },
     {
       "id": "mk3",
@@ -47,7 +47,7 @@
       "consist": "4 קרונות לרכבת (קבוע)",
       "lines": ["Expo", "Millennium"],
       "notes": "",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SkyTrain_Mark_III.jpg/480px-SkyTrain_Mark_III.jpg"
+      "image": "https://commons.wikimedia.org/wiki/Category:Vancouver_SkyTrain_Mk_III#/media/File:SkyTrain_Mk3_440.jpg"
     },
     {
       "id": "mk5",
@@ -60,7 +60,7 @@
       "consist": "5 קרונות לרכבת (קבוע)",
       "lines": ["Expo", "Millennium"],
       "notes": "",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TransLink_Mark_V.jpg/480px-TransLink_Mark_V.jpg"
+      "image": "https://commons.wikimedia.org/wiki/Category:Vancouver_SkyTrain_Mark_V#/media/File:Skytrain_Alstom_Mk5_6065.jpg"
     },
     {
       "id": "emu",
@@ -73,7 +73,7 @@
       "consist": "2 קרונות לרכבת",
       "lines": ["Canada"],
       "notes": "",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Canada_Line_train.jpg/480px-Canada_Line_train.jpg"
+      "image": "https://commons.wikimedia.org/wiki/Category:Vancouver_SkyTrain_Hyundai_Rotem_EMU#/media/File:Canada_Line_Hyundai_Rotem_EMU_(101-201)_entering_Capstan_Station,_Vancouver_SkyTrain_20250927.jpg"
     }
   ],
   "summaryTable": [
