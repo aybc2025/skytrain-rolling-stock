@@ -1,7 +1,7 @@
 {
   "totals": {
     "inService": 425,
-    "retired": { "model": "Mark I", "cars": 6 }
+    "retired": { "model": "Mark I", "cars": 20 }
   },
   "formation": [
     { "labelHe": "סימן I", "labelEn": "Mark I", "perTrainset": 6 },
