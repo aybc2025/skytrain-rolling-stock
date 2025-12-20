@@ -13,7 +13,7 @@ import { Search, TrainFront, Info, Filter, RefreshCcw, ArrowUpDown } from "lucid
 // -------------------- FALLBACK DATA (לטעינה אם ה-JSON לא קיים) --------------------
 const FALLBACK = {
   totals: {
-    inService: 405,
+    inService: 425,
     retired: { model: "Mark I", cars: 6 }
   },
   formation: [
@@ -33,7 +33,7 @@ const FALLBACK = {
       carCount: 144,
       consist: "6 קרונות לרכבת",
       lines: ["Expo", "Millennium"],
-      notes: "6 קרונות פרשו משירות.",
+      notes: "20 קרונות פרשו משירות.",
       image: "https://commons.wikimedia.org/wiki/File:Skytrain_Mk_I_in_new_Translink_livery_arriving_at_Holdom_Skytrain_station.jpg"
     },
     {
@@ -69,11 +69,7 @@ const FALLBACK = {
       maker: "Alstom",
       enteredService: "מאז 2025",
       status: "בשירות (פריסה הדרגתית)",
-<<<<<<< Updated upstream
-      carCount: 20,
-=======
       carCount: 25,
->>>>>>> Stashed changes
       consist: "5 קרונות לרכבת (קבוע)",
       lines: ["Expo", "Millennium"],
       notes: "",
