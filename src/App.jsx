@@ -34,7 +34,7 @@ const FALLBACK = {
       consist: "6 קרונות לרכבת",
       lines: ["Expo", "Millennium"],
       notes: "20 קרונות פרשו משירות.",
-      image: "https://commons.wikimedia.org/wiki/File:Skytrain_Mk_I_in_new_Translink_livery_arriving_at_Holdom_Skytrain_station.jpg"
+      image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Skytrain_Mk_I_in_new_Translink_livery_arriving_at_Holdom_Skytrain_station.jpg/960px-Skytrain_Mk_I_in_new_Translink_livery_arriving_at_Holdom_Skytrain_station.jpg"
     },
     {
       id: "mk2",
@@ -47,7 +47,7 @@ const FALLBACK = {
       consist: "4 קרונות לרכבת (לעיתים 2 במערך נשוי)",
       lines: ["Expo", "Millennium"],
       notes: "",
-      image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/SkyTrain_Mark_II.jpg/480px-SkyTrain_Mark_II.jpg"
+      image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/SkyTrain_Mark_2_326.jpg/1280px-SkyTrain_Mark_2_326.jpg"
     },
     {
       id: "mk3",
@@ -60,7 +60,7 @@ const FALLBACK = {
       consist: "4 קרונות לרכבת (קבוע)",
       lines: ["Expo", "Millennium"],
       notes: "",
-      image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SkyTrain_Mark_III.jpg/480px-SkyTrain_Mark_III.jpg"
+      image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/SkyTrain_Mk3_440.jpg/1280px-SkyTrain_Mk3_440.jpg"
     },
     {
       id: "mk5",
@@ -73,7 +73,7 @@ const FALLBACK = {
       consist: "5 קרונות לרכבת (קבוע)",
       lines: ["Expo", "Millennium"],
       notes: "",
-      image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TransLink_Mark_V.jpg/480px-TransLink_Mark_V.jpg"
+      image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Skytrain_Alstom_Mk5_6065.jpg/1280px-Skytrain_Alstom_Mk5_6065.jpg"
     },
     {
       id: "emu",
@@ -86,7 +86,7 @@ const FALLBACK = {
       consist: "2 קרונות לרכבת",
       lines: ["Canada"],
       notes: "",
-      image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Canada_Line_train.jpg/480px-Canada_Line_train.jpg"
+      image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Canada_Line_Hyundai_Rotem_EMU_%28101-201%29_entering_Capstan_Station%2C_Vancouver_SkyTrain_20250927.jpg/1280px-Canada_Line_Hyundai_Rotem_EMU_%28101-201%29_entering_Capstan_Station%2C_Vancouver_SkyTrain_20250927.jpg"
     }
   ],
   summaryTable: [
@@ -98,7 +98,7 @@ const FALLBACK = {
     { builder: "Bombardier Transportation", model: "ART Mark II", yearAcquired: "2010",       quantity: 14, fleetNumbers: "335–348" },
     { builder: "Bombardier Transportation / Alstom", model: "Innovia Metro Mark III", yearAcquired: "2016",       quantity: 28, fleetNumbers: "401–428" },
     { builder: "Bombardier Transportation / Alstom", model: "Innovia Metro Mark III", yearAcquired: "2018–2020", quantity: 56, fleetNumbers: "429–484" },
-    { builder: "Alstom", model: "Innovia Metro Mark V", yearAcquired: "מאז 2025", quantity: 20, fleetNumbers: "" },
+    { builder: "Alstom", model: "Innovia Metro Mark V", yearAcquired: "מאז 2025", quantity: 25, fleetNumbers: "" },
     { builder: "Hyundai Rotem", model: "EMU", yearAcquired: "2009",        quantity: 40, fleetNumbers: "101–120; 201–220" },
     { builder: "Hyundai Rotem", model: "EMU", yearAcquired: "2019–2020",  quantity: 24, fleetNumbers: "121–132; 221–232" }
   ],
